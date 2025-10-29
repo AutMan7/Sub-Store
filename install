@@ -19,3 +19,7 @@ xream/sub-store
 
 Docker安装：
 curl -fsSL https://get.docker.com | bash -s docker
+
+
+sub-store地址：
+http://192.168.10.8:3001?api=http://192.168.10.8:3001/T3B9dgzBzdRbBF8Aqx7P
